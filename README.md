@@ -1,6 +1,6 @@
 # Verbos-Git-Commit
 
-1. feat
+#### 1. feat
 O que faz: Adiciona uma nova funcionalidade.
 Exemplo:
 feat: add dark mode toggle
