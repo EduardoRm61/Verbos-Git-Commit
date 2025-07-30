@@ -1,4 +1,7 @@
 # Verbos-Git-Commit
+# Convenção para uso dos Commits 1.0.0
+A 
+
 
 #### 1. feat
 O que faz: Adiciona uma nova funcionalidade.
